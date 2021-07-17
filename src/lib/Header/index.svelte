@@ -14,7 +14,7 @@
 			<div class="flex h-16 flex-grow flex-col">
 				<div class="flex flex-between justify-between pt-5 pb-5 border-b border-primary-900 relative">
 					<div class="flex-shrink-0 flex items-center text-primary-700 font-serif text-2xl">
-						<a sveltekit:prefetch href="/">KraussLaw</a>
+						<a sveltekit:prefetch href="/">Sveltekit-Skel</a>
 					</div>
 					<div class="hidden flex-grow sm:ml-8 md:flex md:space-x-8 uppercase content-end justify-end">
 						<a
@@ -30,13 +30,6 @@
 							class="border-transparent text-secondary-800 hover:text-secondary-600 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-semibold"
 						>
 							About
-						</a>
-						<a
-							sveltekit:prefetch
-							href="/practice-areas/"
-							class="border-transparent text-secondary-800 hover:text-secondary-600 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-semibold"
-						>
-							Practice Areas
 						</a>
 						<a
 							sveltekit:prefetch
@@ -110,12 +103,6 @@
 					href="/about/"
 					class="uppercase border-transparent text-gray-100 hover:bg-primary-700 block pl-3 pr-4 py-2 text-base font-medium"
 					on:click={toggleMobileNav}>About</a
-				>
-				<a
-					sveltekit:prefetch
-					href="/practice-areas/"
-					class="uppercase border-transparent text-gray-100 hover:bg-primary-700 block pl-3 pr-4 py-2 text-base font-medium"
-					on:click={toggleMobileNav}>Practice Areas</a
 				>
 				<a
 					sveltekit:prefetch

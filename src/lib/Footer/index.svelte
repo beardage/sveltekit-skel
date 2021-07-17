@@ -3,9 +3,6 @@
 		<div class="uppercase leading-6">
 			<a class="text-secondary-800 hover:text-secondary-600 font-semibold block mb-1" href="/">Home</a>
 			<a class="text-secondary-800 hover:text-secondary-600 font-semibold block mb-1" href="/about/">About</a>
-			<a class="text-secondary-800 hover:text-secondary-600 font-semibold block mb-1" href="/practice-areas/"
-				>Practice Areas</a
-			>
 			<a class="text-secondary-800 hover:text-secondary-600 font-semibold block mb-1" href="/faq/">FAQs</a>
 			<a class="text-secondary-800 hover:text-secondary-600 font-semibold block mb-1" href="/contact/">Contact</a>
 		</div>
@@ -24,7 +21,7 @@
 			<a class="text-secondary-800 hover:text-secondary-600 font-semibold block mb-1" href="#">Instagram</a>
 			<a class="text-secondary-800 hover:text-secondary-600 font-semibold block mb-1" href="#">Linkedin</a>
 			<br />
-			<p class="text-secondary-800">©2021 KraussLaw. All Rights Reserved.</p>
+			<p class="text-secondary-800">©2021 Sveltekit-Skel. All Rights Reserved.</p>
 		</div>
 	</div>
 </footer>
