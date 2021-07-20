@@ -19,7 +19,7 @@
 </svelte:head>
 
 <div class="content max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-8">
-	<h1 class="text-secondary-800 text-center text-4xl font-serif my-16">About</h1>
+	<h1 class="text-secondary-800 text-center text-4xl font-sans my-16">About</h1>
 	<div class="grid md:grid-cols-2 gap-8">
 		<div class="order-2 md:order-1 description">
 			<p class="mb-8">
@@ -36,7 +36,7 @@
 				nec, ullamcorper nec nulla. Aenean dapibus mattis metus, vel placerat ipsum rutrum et. Phasellus at
 				porta nibh. Pellentesque accumsan convallis sagittis. Integer fringilla orci a volutpat pellentesque.
 			</p>
-			<h3 class="text-secondary-800 font-serif text-2xl mt-8 mb-4">Experience</h3>
+			<h3 class="text-secondary-800 font-sans text-2xl mt-8 mb-4">Experience</h3>
 			<ul>
 				<li>thing 1</li>
 				<li>thing 2</li>

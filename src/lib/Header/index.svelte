@@ -13,7 +13,7 @@
 		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 			<div class="flex h-16 flex-grow flex-col">
 				<div class="flex flex-between justify-between pt-5 pb-5 border-b border-primary-900 relative">
-					<div class="flex-shrink-0 flex items-center text-primary-700 font-serif text-2xl">
+					<div class="flex-shrink-0 flex items-center text-primary-700 font-sans text-2xl">
 						<a sveltekit:prefetch href="/">Sveltekit-Skel</a>
 					</div>
 					<div class="hidden flex-grow sm:ml-8 md:flex md:space-x-8 uppercase content-end justify-end">
